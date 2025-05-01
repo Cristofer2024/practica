@@ -1,2 +1,2 @@
 print("hola mundos")
-prin("modificado desde github")
+print("modificado desde github")
